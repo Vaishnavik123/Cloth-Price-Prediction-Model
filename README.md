@@ -1,1 +1,0 @@
-# Cloth-Price-Prediction-Model
